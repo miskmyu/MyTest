@@ -16,8 +16,6 @@ import net.sf.mpxj.mpp.MPPReader;
 public class MppParser {
 
 	public static void main(String[] args) throws MPXJException {
-
-		
 		
 		MPPReader reader = new MPPReader();
 		
