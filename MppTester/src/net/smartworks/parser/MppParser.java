@@ -17,6 +17,8 @@ public class MppParser {
 
 	public static void main(String[] args) throws MPXJException {
 
+		
+		
 		MPPReader reader = new MPPReader();
 		
 		File file = new File(new java.io.File("").getAbsolutePath()+"/src/net/smartworks/mpp/testPrj.mpp");
